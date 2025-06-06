@@ -1,5 +1,8 @@
 # AI-Chatbot-PDF-URLs-RAG-powered-QA-System-with-ChromaDB-Phi-2-LLM-
 
+![URLs rag chatbot](https://github.com/user-attachments/assets/9b242302-b4e7-422a-a325-c8b6c2e04b4c)
+
+---
 
 * PDF/URL ingestion
 * Text cleaning + preprocessing (NLP)
